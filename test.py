@@ -1,0 +1,3 @@
+class Pferd(object):
+    pass
+    
